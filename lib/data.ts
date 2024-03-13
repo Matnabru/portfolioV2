@@ -43,7 +43,7 @@ export const experiencesData = [
     date: "2022 - 2024",
   },
   {
-    title: "Graduated",
+    title: "Bachelor of Engineering",
     location: "University of Siedlce",
     description:
       "Graduated.",
